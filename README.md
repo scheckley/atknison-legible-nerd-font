@@ -1,4 +1,4 @@
-# Atknison legible nerd patched font
+# Atkinson legible nerd patched font
 
 Atkinson legible font from the Braille Institute: https://brailleinstitute.org/freefont
 
